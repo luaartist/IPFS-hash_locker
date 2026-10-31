@@ -1,0 +1,15 @@
+{
+  "name": "ipfs-hash-locker",
+  "version": "1.0.0",
+  "description": "Cryptographic IPFS hash locking, encryption, and recovery toolkit",
+  "main": "scripts/ipfs_network.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "ipfs-http-client": "^60.0.1"
+  },
+  "author": "luaartist",
+  "license": "AGPL-3.0-or-later"
+}
